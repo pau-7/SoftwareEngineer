@@ -22,7 +22,7 @@ const setDefaultValues = () => {
 
   // Obtener referencias a los selectores
   const groupSelect = document.getElementById('group-select');
-  const experienceSelect = document.getElementById('Development-Engineering');
+  const experienceSelect = document.getElementById('Sales-Business-Dev');
   const countrySelect = document.getElementById('group-country');
   const levelSelect = document.getElementById('select-level');
 
