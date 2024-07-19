@@ -28,7 +28,7 @@ const setDefaultValues = () => {
 
   // Establecer los valores predeterminados en los selectores
   groupSelect.value = data.group;
-  experienceSelect.value = data.experience;
+  experienceSelect.value = data.sales;
   countrySelect.value = data.country;
   levelSelect.value = data.level;
 
