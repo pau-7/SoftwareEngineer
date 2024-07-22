@@ -16,7 +16,7 @@ let data={
 const setDefaultValues = () => {
   // Establecer los valores predeterminados para cada selector
   data.group = 'Sales & Business Dev';
-  data.experience = 'Sales Representative';
+  data.sales = 'Sales Representative';
   data.country = 'All Latam';
   data.level = 'Mid Level';
 
