@@ -18,7 +18,7 @@ const setDefaultValues = () => {
   data.group = 'Development & Engineering';
   data.experience = 'AI Developer';
   data.country = 'All Latam';
-  data.level = 'Senior Level';
+  data.level = 'Mid Level';
 
   // Obtener referencias a los selectores
   const groupSelect = document.getElementById('group-select');
